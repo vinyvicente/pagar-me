@@ -12,3 +12,10 @@ Based on https://pagar.me/docs/api/
 
 * PHP 5.4+
 * CURL + extension CURL PHP
+
+## TODO
+
+* Bootstraping Library - **DONE**
+* Transactions (Credit Card, Boleto) - _MISSING_
+* Plans - _MISSING_
+* Subscription - _MISSING_
